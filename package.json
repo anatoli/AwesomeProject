@@ -21,6 +21,9 @@
   "dependencies": {
     "expo": "^25.0.0",
     "react": "16.2.0",
-    "react-native": "0.52.0"
+    "react-native": "*",
+    "react-native-android-wifi": "0.0.23",
+    "react-native-rest-client": "^0.1.1",
+    "react-proxy": "^1.1.8"
   }
 }
